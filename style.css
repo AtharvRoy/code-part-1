@@ -1,0 +1,17 @@
+body
+{
+
+}
+.heading{
+    display: inline;
+    text-align: left;
+}
+.op{
+    width: 100%;
+}
+.lol{
+    float: right;
+}
+.oplol{
+    float: left;
+}
